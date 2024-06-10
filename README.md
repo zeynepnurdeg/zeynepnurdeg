@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeynepnurdeg
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ... 
 
